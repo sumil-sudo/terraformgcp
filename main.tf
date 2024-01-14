@@ -1,4 +1,4 @@
-resource "google_storage_bucket" "auto-expire" {
+resource "google_storage_bucket" "quiet-sanctuary-375506-bucket" {
   name          = "quiet-sanctuary-375506-bucket"
   location      = "US"
   force_destroy = true
